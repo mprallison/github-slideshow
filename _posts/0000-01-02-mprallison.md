@@ -2,17 +2,26 @@
 layout: slide
 title: "Welcome to our mprall slide!"
 ---
+
 <html>
+<h1>This is a yellow circle</h1>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.square {
+  height: 50px;
+  width: 50px;
+  background-color: #555;
+}
+</style>
+</head>
 <body>
 
-<h1>This is a yellow circle</h1>
+<h2>Square CSS</h2>
+<div class="square"></div>
 
-<svg width="100" height="100">
-   <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
-      </svg> 
-       
-       </body>
-       </html>
+</body>
+</html> 
 
 Use the left arrow to go back!
 :tada:
