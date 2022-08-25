@@ -1,6 +1,9 @@
 ---
 layout: slide
 title: "Welcome to our mprall slide!"
+
+Use the left arrow to go back!
+:tada:
 ---
 
 <html>
@@ -22,6 +25,3 @@ title: "Welcome to our mprall slide!"
 
 </body>
 </html> 
-
-Use the left arrow to go back!
-:tada:
